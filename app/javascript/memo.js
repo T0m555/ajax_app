@@ -31,18 +31,3 @@ function memo() {
   });
 }
 window.addEventListener("load", memo);
-
-// function memo() {
-//   const submit = document.getElementById("submit");
-//   submit.addEventListener("click", (e) => {
-//     const formData = new FormData(document.getElementById("form"));
-    
-
-      
-//       
-//       formText.value = "";
-//     };
-//     e.preventDefault();
-//   });
-//  }
-//  window.addEventListener("load", memo);
